@@ -31,11 +31,14 @@
     "extra": {
         "merge-plugin": {
             "include": [
-                "../../config.json"
+                "../local_packages.json"
             ]
         },
         "ecotone": {
             "repository": "change-log-cqrs"
+        },
+        "branch-alias": {
+            "dev-main": "0.4.4-dev"
         }
     }
 }
