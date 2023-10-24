@@ -7,7 +7,7 @@ use Ecotone\Modelling\Attribute\QueryHandler;
 use InvalidArgumentException;
 
 /**
- * test 0.10.0-rc.2
+ * test 0.10.0-rc.9
  */
 class OrderService
 {
