@@ -2,9 +2,6 @@
 
 namespace App\CQRS;
 
-/**
- * test 1
- */
 class PlaceOrder
 {
     private string $orderId;
