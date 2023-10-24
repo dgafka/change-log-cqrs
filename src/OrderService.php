@@ -6,6 +6,9 @@ use Ecotone\Modelling\Attribute\CommandHandler;
 use Ecotone\Modelling\Attribute\QueryHandler;
 use InvalidArgumentException;
 
+/**
+ * test 0.10.0-rc.9
+ */
 class OrderService
 {
     private array $orders;
